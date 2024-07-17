@@ -2,4 +2,4 @@ The goal and purpose behind this project was to examine movie data from both IMD
 
 After pulling data from each of the sources, general data cleaning and visualizations were created to compare the two sources.
 
-Machine learning was then done to predict movie reviews based on movie scores usign Pyspark. A more detailed rundown of each task can be found in the code document.
+Machine learning was then done to predict movie reviews based on movie scores using Pyspark. A more detailed rundown of each task can be found in the code document.
